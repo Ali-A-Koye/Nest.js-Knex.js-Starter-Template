@@ -1,4 +1,4 @@
-### **Nest.js with Configured Knex.js Starter Template **
+### **Nest.js with Configured Knex.js Starter Template**
 
 **Migrations & seeds**
 
