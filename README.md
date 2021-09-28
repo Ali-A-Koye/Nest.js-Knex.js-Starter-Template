@@ -3,9 +3,8 @@
 **Migrations & seeds**
 
 > - start with adding your Database Credentials to your .env file
-
-- then adding migrations/Seeds in Database folder
-- run **npm run db:migrate** to migrate the migrations , and **npm run db:seed ** in order to run the seeds
+> - then adding migrations/Seeds in Database folder
+> - run **npm run db:migrate** to migrate the migrations , and **npm run db:seed** in order to run the seeds
 
 **Inject the connection to Nest.js modules**
 
