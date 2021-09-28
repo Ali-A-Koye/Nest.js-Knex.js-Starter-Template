@@ -10,7 +10,6 @@
 
 > check the app module and you will see the connection there and check the app service to learn about how to inject this connection to your own services & modules
 
-**Extra
-**
+**Extra**
 
 > there is Extra folder which has some useful default columns that you can easily import it into your migrations
